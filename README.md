@@ -2,6 +2,25 @@
 
 Plataforma para produzir e agendar vídeos curtos verticais com IA. O código é privado. Este repositório apresenta o produto e a arquitetura.
 
+<table>
+  <tr>
+    <td><a href="media/video-gerado.mp4"><img src="media/capa-video.jpg" alt="Assistir a um vídeo gerado pelo DarkVid" width="280"></a></td>
+    <td><a href="media/sistema.mp4"><img src="media/capa-sistema.jpg" alt="Assistir à demonstração do sistema" width="560"></a></td>
+  </tr>
+  <tr>
+    <td>Vídeo gerado (14 s)</td>
+    <td>Demonstração do sistema (35 s)</td>
+  </tr>
+</table>
+
+*Clique nas imagens para assistir.*
+
+## Telas
+
+![Biblioteca de clipes com origem, licença e tags](media/biblioteca.png)
+
+![Agenda com uma publicação no Instagram](media/agenda.png)
+
 ![Tela de anúncios do DarkVid](media/anuncios.png)
 
 ## O que ele faz
